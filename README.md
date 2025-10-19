@@ -13,6 +13,10 @@ Sprache         | Deutsch
 Voraussetzungen | Grundlegendes Kenntnisse in den Technologien XML, XSLT, HTML und CSS
 Arbeitslast     | 150 Stunden, davon 64 SWS (entspricht 4 SWS), 85 Stunden angeleitetes Selbststudium und Prüfungsvorbereitung, 1 Stunde Prüfung (Präsentation)
 
+## Hilfsmittel
+
+Alle Hilfsmittel sind erlaubt, auch KI-Assistenten.
+
 ## Remote
 
 Die Veranstaltung kann auch Remote angeboten werden.
@@ -36,11 +40,18 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 ## Aufgaben
 
-1. Konvertierung von [XHTML](https://www.w3.org/TR/xhtml1/) aus [JATS](https://jats.nlm.nih.gov/publishing/tag-library/1.1/index.html)
-2. Prüfen der JATS-Daten mit [ISO Schematron](http://schematron.com/)
-3. Erstellen einer Druckvorlage mit PrintCSS
+1. Auszeichnung der JATS-XML-Datei
+2. Konvertierung von [XHTML](https://www.w3.org/TR/xhtml1/) aus [JATS](https://jats.nlm.nih.gov/publishing/tag-library/1.1/index.html)
+3. Prüfen der JATS-Daten mit [ISO Schematron](http://schematron.com/)
+4. Erstellen einer Druckvorlage mit PrintCSS
 
-### XSLT
+### 1. JATS-XML
+
+1. Metadaten müssen ausgezeichnet sein
+2. Alternativtexte sind eingefügt
+3. Referenzen sind auch als strukturierte Version verfügbar 
+
+### 2. XSLT
 
 1. XSLT muss valide sein
 2. XSLT muss lauffähig sein: keine Fehler, keine uneindeutigen Templates (ambiguous)
@@ -52,7 +63,7 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 8. Redundanter Code sollte vermieden werden
 9. Die HTML-Ausgabe muss valide sein
 
-### Schematron
+### 3. Schematron
 
 1. Der Inhalt von publisher-name muss "De Gruyter" sein.
 2. kwd-group muss mindestens drei kwd-Elemente enthalten
@@ -63,8 +74,9 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 7. Copyright Jahr muss größer als 1990 sein.
 8. Der Dateiname in related-article muss immer mit der Endung ".pdf" enden.
 9. Journal-Code muss fünfstellig sein.
+10. Jede Figure muss einen Alternativtext enthalten
 
-### PrintCSS
+### 4. PrintCSS
 
 1. das CSS muss valide sein (Ausnahme spezielle PrinceCSS-Properties)
 2. Print Media Query vorhanden

@@ -40,7 +40,7 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 ## Aufgaben
 
-1. Auszeichnung der JATS-XML-Datei [Herunterladen](https://www.le-tex.de/dbdownload/SYAi5JyrFUXHBpnprM5QaslIzIQB0XeahFGLIrnD/econ-2025-0158.zip)
+1. Auszeichnung der JATS-XML-Datei. ([Herunterladen](https://www.le-tex.de/dbdownload/SYAi5JyrFUXHBpnprM5QaslIzIQB0XeahFGLIrnD/econ-2025-0158.zip))
 2. Konvertierung von [XHTML](https://www.w3.org/TR/xhtml1/) aus [JATS](https://jats.nlm.nih.gov/publishing/tag-library/1.1/index.html)
 3. Prüfen der JATS-Daten mit [ISO Schematron](http://schematron.com/)
 4. Erstellen einer Druckvorlage mit PrintCSS

@@ -29,7 +29,7 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 | Nr. | Datum  | Zeit        | Beschreibung     |
 |-----|--------|-------------|------------------|
-| 1.  | 20.10. |  9:30-12:45 | Einführung, JATS |
+| 1.  | 23.10. |  9:30-12:45 | Einführung, JATS |
 | 2.  | 27.10. |  9:30-12:45 | XSLT             |
 | 3.  | 03.11. |  9:30-12:45 | XSLT             |
 | 4.  | 10.11. |  9:30-12:45 | Schematron       |

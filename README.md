@@ -123,6 +123,12 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 [Introduction to JATS von Debbie Lapeyre](https://www.xml.com/articles/2018/10/12/introduction-jats/)
 
+### XPath 
+
+Referenz von XPath-Funktionen
+
+https://www.w3schools.com/xml/xsl_functions.asp
+
 ### XSLT
 
 #### Spec

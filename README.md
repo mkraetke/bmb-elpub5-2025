@@ -36,7 +36,10 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 | 5.  | 17.11. |  9:30-12:45 | PrintCSS         |
 | 6.  | 24.11. |  9:30-12:45 | PrintCSS         |
 | 7.  | 01.12. |  9:30-12:45 | Konsultation     |
+| -  | 12.12. | 23:59       | Frist Datenabgabe |
 | 8.  | 15.12. |  9:30-12:45 | Prüfung          |
+
+
 
 ## Aufgaben
 

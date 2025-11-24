@@ -177,3 +177,6 @@ Marko Hedler, Nico Kutscherauer: Schematron: effiziente XML Business Rules für 
 * [Rachel Andrew: Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
 * [Antenna House: Introduction to CSS for Paged Media](https://www.antennahouse.com/hubfs/PDFS/CSS%20for%20Paged%20Media/CSS-Print-en-2019-02-15.pdf)
 
+#### Print CSS Renderer
+* [Prince User Guide](https://www.princexml.com/doc/intro-userguide/)
+* [Prince Reference Guide](https://www.princexml.com/doc/css-props/#prop-prince-hyphenate-limit-lines)

@@ -97,7 +97,7 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 ## Abgabe
 
 * bis 12.12. Daten abgeben
-* XML, XSLT, Schematron, CSS
+* XML, XSLT, Schematron, CSS, bei Bedarf Fonts
 * als Zip: `elpub5-2025_nachname_vorname.zip`
 * via E-Mail an martin.kraetke@le-tex.de
 
